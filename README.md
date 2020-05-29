@@ -1,2 +1,2 @@
 # Example
- Example techdegree project
+ Example techdegree project.
